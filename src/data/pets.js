@@ -14,7 +14,7 @@ const allPets = [
     gender: 'male',
     age: 3,
     weight: 1,
-    name: 'Teddy',
+    name: 'Teddy', 
     isAdopted: false,
   },
   {

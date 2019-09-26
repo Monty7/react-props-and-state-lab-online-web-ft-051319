@@ -1,4 +1,4 @@
-const MALE_PET_NAMES = [
+const MALE_PET_NAMES = [ 
   "Rocket",
   "Strike",
   "Max",
